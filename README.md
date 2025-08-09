@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook climate-new.ipynb
 ```
-4.Run all cells to reproduce results.
+4. Run all cells to reproduce results.
 
 ---
 
